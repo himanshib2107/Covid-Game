@@ -124,7 +124,7 @@ function update(){
     if(collide(p,g)){
         console.log('You Won Yeah!');
         game_over=true;
-        alert('You won the game from Kunal with score: '+ p.health);
+        alert('You won the game from Himanshi with score: '+ p.health);
     }
 }
 
